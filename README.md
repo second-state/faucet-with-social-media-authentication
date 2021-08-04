@@ -1,3 +1,5 @@
+***FAUCET DEVELOPMENT HAS MOVED - Please see [this repo](https://github.com/ParaState/universal-blockchain-faucet) where all future development will take place***
+
 # Universal Faucet (for Ethereum compatible blockchain networks)
 
 # What does it do?
